@@ -1,1 +1,3 @@
-# u22_dejicon
+# u22_application
+
+A new Flutter project.
